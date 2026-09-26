@@ -1,0 +1,22 @@
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local logs, measurements, and screenshots
+*.log
+*.out
+/metrics.csv
+/shots/
+/shots_run*/
+
+# Local credentials and editor settings
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+
+# Local history backups
+*.bundle

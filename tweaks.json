@@ -1,0 +1,15 @@
+{
+  "_comment": "Values applied by earthvr_tweaks.py. null = leave the game default. Game defaults in _defaults. See README.md.",
+  "_defaults": {"lod_bias": 0.5, "msaa_samples": 4, "mirth_memory_cap_mb": 8000, "anisotropy": 1.0,
+                "performance_boost": true, "stream_min_budget_ms": 0.5, "stream_margin_ms": 3.0,
+                "start_location_index": -1},
+
+  "lod_bias": 2.0,
+  "mirth_memory_cap_mb": 12000,
+  "msaa_samples": null,
+  "anisotropy": null,
+  "performance_boost": null,
+  "stream_min_budget_ms": null,
+  "stream_margin_ms": null,
+  "start_location_index": null
+}
